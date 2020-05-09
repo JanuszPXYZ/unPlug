@@ -69,7 +69,7 @@ class UnplugMe(rumps.App):
     @rumps.clicked("About")
     def about(self, _):
         about_window = rumps.Window(message = "Additional Info",
-        title = "About", default_text = "Contact me: januszpolowczyk19@gmail.com \nProject can be found @: github.com/....",
+        title = "About", default_text = "Contact me: januszpolowczyk19@gmail.com \nProject can be found @: https://github.com/JanuszPXYZ/unPlug",
         ok = None,
         dimensions = (300,300))
 
