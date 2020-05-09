@@ -13,3 +13,4 @@ You change the threshold simply by entering a value into the window. The app can
 ## TODO's
 
 - It would be cool to not only notify the user in the OSX Notification Center, but also to send a message that would remind him to unplug the computer.
+- The standalone app was successfully compiled, so maybe releasing it somewhere? :)
