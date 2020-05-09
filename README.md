@@ -8,3 +8,8 @@ All the necessary info about the battery (its current charge, plugged in "status
 <img width="420" alt="Zrzut ekranu 2020-05-10 o 00 09 08" src="https://user-images.githubusercontent.com/19962689/81486791-9baf7a00-9257-11ea-852a-c24e84592734.png">
 
 You change the threshold simply by entering a value into the window. The app can also work as a standalone battery monitor that displays the battery percentage. 
+
+
+## TODO's
+
+- It would be cool to not only notify the user in the OSX Notification Center, but also to send a message that would remind him to unplug the computer.
