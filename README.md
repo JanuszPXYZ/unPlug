@@ -9,6 +9,9 @@ All the necessary info about the battery (its current charge, plugged in "status
 
 You can change the threshold simply by entering a value into the window. The app can also work as a battery monitor that displays the battery percentage. 
 
+<img width="344" alt="Zrzut ekranu 2020-05-10 o 17 18 28" src="https://user-images.githubusercontent.com/19962689/81503160-6a2fc080-92e2-11ea-9436-14dae8f5cad8.png">
+
+
 
 ## TODO's
 
