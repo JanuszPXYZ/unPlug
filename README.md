@@ -13,6 +13,13 @@ You can change the threshold simply by entering a value into the window. The app
 
 <img width="344" alt="Zrzut ekranu 2020-05-10 o 17 18 28" src="https://user-images.githubusercontent.com/19962689/81503160-6a2fc080-92e2-11ea-9436-14dae8f5cad8.png">
 
+### Credits for the icons
+1) App logo in the dock created by: monkik "https://www.flaticon.com/free-icon/charging_861088"
+2) Status Bar icon: "https://icons8.com/icon/64388/charging-station"
+3) Wrench (Maintenance) Icon in Settings: "https://icons8.com/icon/11151/maintenance"
+
+
+
 
 
 ## TODO's
