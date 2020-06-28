@@ -25,3 +25,7 @@ You can change the threshold simply by entering a value into the window. The app
 ## TODO's
 
 - It would be cool to not only notify the user in the OSX Notification Center, but also to send a message that would remind him to unplug the computer.
+
+## Version 0.1.1
+
+- After the update, the app no longer resides in the bottom bar when active (initially it was visible both in the dock and the status bar). It is visible only in the status bar
