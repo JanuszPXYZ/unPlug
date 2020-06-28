@@ -29,3 +29,4 @@ You can change the threshold simply by entering a value into the window. The app
 ## Version 0.1.1
 
 - After the update, the app no longer resides in the bottom bar when active (initially it was visible both in the dock and the status bar). It is visible only in the status bar
+- Some errors that caused the app to crash were removed.
