@@ -2,7 +2,7 @@ altgraph==0.17
 macholib==1.14
 modulegraph==0.18
 numpy==1.18.4
-Pillow==9.0.0
+Pillow==9.3.0
 psutil==5.7.0
 py2app==0.21
 PyInstaller==3.6
