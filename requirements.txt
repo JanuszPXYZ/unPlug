@@ -1,13 +1,11 @@
-altgraph==0.17
-macholib==1.14
-modulegraph==0.18
-numpy==1.18.4
-Pillow==9.0.0
-psutil==5.7.0
-py2app==0.21
-PyInstaller==3.6
-pyobjc-core==6.2
-pyobjc-framework-Cocoa==6.2
-rumps==0.3.0
-six==1.14.0
-wxPython==4.1.0
+# Runtime dependencies.
+#
+# pyobjc-core and pyobjc-framework-Cocoa are installed automatically as
+# dependencies of rumps and no longer need to be listed by hand.
+#
+# Removed from the previous version: numpy, wxPython and Pillow were never
+# imported by this app, and altgraph, macholib, modulegraph and six were
+# transitive dependencies that pip resolves on its own.
+
+rumps>=0.4.0
+psutil>=5.9.0

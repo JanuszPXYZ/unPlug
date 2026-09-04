@@ -1,0 +1,6 @@
+# Build dependencies, needed only to produce a standalone .app bundle:
+#     pip install -r requirements-dev.txt
+#     python setup.py py2app
+
+-r requirements.txt
+py2app>=0.28.10
